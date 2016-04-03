@@ -225,12 +225,6 @@ Canvas{
 
 @media only screen and (min-width: 100px) and(max-width: 959px) {
 
-    .logo img {
-        text-align:center;
-        margin-left: 35%;
-        max-width: 100%;
-        height:auto;
-
     /* Larger than tablet */
     @media  only screen and(max-width: 767px) {
 
@@ -265,15 +259,7 @@ Canvas{
 
         }
 
-        .logo img {
-            text-align:center;
-            margin-left: 35%;
-            max-width: 100%;
-            height:auto;
 
-
-
-        }
 
         /* Larger than desktop */
         @media (min-width: 480px) and (max-width: 767px) {
