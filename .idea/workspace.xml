@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cff9ba1-2e55-4e9f-a956-f38ca9092caa" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/1-Large.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/1-Small.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/10-Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/10-Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/11-Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/11-Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/12-Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/12-Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/13-Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/13-Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/5-Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/5-Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/6-Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/6-Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/7-Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/7-Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/8-Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/8-Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/9-Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/9-Small.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/2-Large.jpg" afterPath="$PROJECT_DIR$/img/2-Large.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/2-Small.jpg" afterPath="$PROJECT_DIR$/img/2-Small.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/3-Large.jpg" afterPath="$PROJECT_DIR$/img/3-Large.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/3-Small.jpg" afterPath="$PROJECT_DIR$/img/3-Small.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/4-Large.jpg" afterPath="$PROJECT_DIR$/img/4-Large.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/4-Small.jpg" afterPath="$PROJECT_DIR$/img/4-Small.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/gallery.css" afterPath="$PROJECT_DIR$/css/gallery.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7cff9ba1-2e55-4e9f-a956-f38ca9092caa" name="Default" comment="" />
     <ignored path="uniquecollectibles.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
