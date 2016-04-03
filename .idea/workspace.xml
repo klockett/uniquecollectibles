@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cff9ba1-2e55-4e9f-a956-f38ca9092caa" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/1-Large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/1-Small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/10-Large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/10-Small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/11-Large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/11-Small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/12-Large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/12-Small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/13-Large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/13-Small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/5-Large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/5-Small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/6-Large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/6-Small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/7-Large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/7-Small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/8-Large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/8-Small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/9-Large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/9-Small.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/2-Large.jpg" afterPath="$PROJECT_DIR$/img/2-Large.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/2-Small.jpg" afterPath="$PROJECT_DIR$/img/2-Small.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/3-Large.jpg" afterPath="$PROJECT_DIR$/img/3-Large.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/3-Small.jpg" afterPath="$PROJECT_DIR$/img/3-Small.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/4-Large.jpg" afterPath="$PROJECT_DIR$/img/4-Large.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/4-Small.jpg" afterPath="$PROJECT_DIR$/img/4-Small.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/gallery.css" afterPath="$PROJECT_DIR$/css/gallery.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="uniquecollectibles.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +54,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="1665">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.020463847" vertical-offset="750" max-vertical-offset="1515">
+              <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="annoucement.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../annoucement.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="1185">
+              <caret line="9" column="63" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/gallery.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.484127" vertical-offset="0" max-vertical-offset="4125">
-              <caret line="226" column="0" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4125">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,8 +104,8 @@
       <list>
         <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/css/stylesheet.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/gallery.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -75,10 +113,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="176" />
-    <option name="y" value="81" />
-    <option name="width" value="1197" />
-    <option name="height" value="876" />
+    <option name="x" value="489" />
+    <option name="y" value="176" />
+    <option name="width" value="1436" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -141,7 +179,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lockett_Ken_WIA_The_Project/eco1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../annoucement.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="recentsLimit" value="5" />
@@ -211,15 +249,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="176" y="81" width="1197" height="876" extended-state="0" />
-    <editor active="true" />
+    <frame x="489" y="176" width="1436" height="877" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20777385" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -255,10 +293,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/gallery.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="1665">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -271,10 +309,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/gallery.css">
+    <entry file="file://$PROJECT_DIR$/../annoucement.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.484127" vertical-offset="0" max-vertical-offset="4125">
-          <caret line="226" column="0" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="1185">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.020463847" vertical-offset="750" max-vertical-offset="1515">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
           <folding />
         </state>
       </provider>

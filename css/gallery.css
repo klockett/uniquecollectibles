@@ -1,4 +1,3 @@
-@charset "UTF-8";
 
 .logo img{
     max-width: 100%;
@@ -41,7 +40,7 @@ a:hover { color: #bbb; }
 	padding: 15px 0px 1px 0px;
 }
 
-.gallery_thumbnails { width: 500px; margin-left: 40px; float: left; }
+.gallery_thumbnails { width: 500px; margin-left: 40px; float: left; padding: 5px; }
 .gallery_thumbnails a {
 	display: block;
 	height: 75px;
@@ -223,8 +222,9 @@ Canvas{
 }
 
 
-@media only screen and (min-width: 100px) and(max-width: 959px) {
+@media only screen and (min-width: 100px) and(max-width: 767px) {
 
+    }
     /* Larger than tablet */
     @media  only screen and(max-width: 767px) {
 
